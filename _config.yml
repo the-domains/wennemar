@@ -1,10 +1,10 @@
-layout_spectrum: 0.5399122196249664
-typography_spectrum: 0.6216939450241625
+layout_spectrum: 0.8508270089514554
+typography_spectrum: 0.3142628332134336
 color:
-  brandStrength: 0.19836612977087498
-  lightness: 0.6786128249950707
-  saturation: 0.28695761994458735
-  rhythmicContrast: 0.017564621986821294
+  brandStrength: 0.3613526758272201
+  lightness: 0.02885133260861039
+  saturation: 0.06858927244320512
+  rhythmicContrast: 0.6542063215747476
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
@@ -12,4 +12,8 @@ color:
     - '#4D4D4D'
     - '#333333'
 name: Wennemar
-navigation: []
+navigation:
+  - id: 6c7dfdda-43d6-48f2-b878-05be2ff7556c
+    url: 2016-07-22-exquisite-2.html
+    name: Exquisite 2
+    type: content
