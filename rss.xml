@@ -4,7 +4,7 @@
         <description><![CDATA[Wennemar]]></description>
         <link>https://thegrid.ai/wennemar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 14:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 14:42:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wennemar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Exquisite 2]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/wennemar/exquisite-1/index.html</link>
             <guid isPermaLink="false">b0a1f353-7b9f-4720-8ebb-5952d4048db0</guid>
             <pubDate>Fri, 22 Jul 2016 14:34:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open Mind]]></title>
-            <description><![CDATA[<article><h1>Open Mind</h1><p>With an open mind we can fly and transform our mind into butterfly wings! Open Mind is a pencil drawing on paper that splits the brain in two to become wings of transformation allowing new creative stimuli to spark and soar.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70b06718fa1fe19a901fb969b32daf08/croprotate.jpg?cropheight=846&cropwidth=744&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc222e73fc556b61eb4e4e8bb158bdf9cf7734bde.jpg&x=128&y=0"></article>]]></description>
-            <link>https://thegrid.ai/wennemar/open-mind/index.html</link>
-            <guid isPermaLink="false">86b62e0a-0742-4937-ad87-19c759b3d593</guid>
-            <pubDate>Fri, 22 Jul 2016 14:33:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
