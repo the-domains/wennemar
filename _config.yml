@@ -12,8 +12,4 @@ color:
     - '#4D4D4D'
     - '#333333'
 name: Wennemar
-navigation:
-  - id: 6c7dfdda-43d6-48f2-b878-05be2ff7556c
-    url: 2016-07-22-exquisite-2.html
-    name: Exquisite 2
-    type: content
+navigation: []
