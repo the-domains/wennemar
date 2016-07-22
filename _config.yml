@@ -12,8 +12,4 @@ color:
     - '#4D4D4D'
     - '#333333'
 name: Wennemar
-navigation:
-  - id: 86b62e0a-0742-4937-ad87-19c759b3d593
-    url: 2016-07-22-open-mind.html
-    name: Open Mind
-    type: content
+navigation: []
