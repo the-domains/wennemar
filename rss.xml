@@ -4,7 +4,7 @@
         <description><![CDATA[Wennemar]]></description>
         <link>https://thegrid.ai/wennemar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 14:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 14:45:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wennemar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Exquisite 2]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/wennemar/exquisite-2/index.html</link>
             <guid isPermaLink="false">6c7dfdda-43d6-48f2-b878-05be2ff7556c</guid>
             <pubDate>Fri, 22 Jul 2016 14:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exquisite 1]]></title>
-            <description><![CDATA[<article><h1>Exquisite 1</h1><p>Exquisite 1 is a reference to the Exquisite Corpse style invented by the beginning Surrealists in that the images are collectively assembled, but through objects around my home at various times and days while I am the only player drawing on unfolded paper.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8370c2c2633b669c36f8e3cf54d52613/croprotate.jpg?cropheight=1327&cropwidth=645&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5f70e592-595b-4e59-9ce9-e0bdfacbe5fb.jpg&x=186&y=0"></article>]]></description>
-            <link>https://thegrid.ai/wennemar/exquisite-1/index.html</link>
-            <guid isPermaLink="false">b0a1f353-7b9f-4720-8ebb-5952d4048db0</guid>
-            <pubDate>Fri, 22 Jul 2016 14:34:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
