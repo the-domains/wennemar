@@ -6,9 +6,9 @@ color:
   saturation: 0.9608229794539511
   rhythmicContrast: 0.6429422334767878
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Wennemar
